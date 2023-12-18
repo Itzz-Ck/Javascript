@@ -21,3 +21,9 @@ let b6=Number(a6)
 console.log([b0,b1,b2,b3,b4,b5,b6])
 
 console.log([typeof(b0),typeof(b1),typeof(b2),typeof(b3),typeof(b4),typeof(b5),typeof(b6)])
+
+console.log("2" == 2)
+console.log("2" === 2)
+
+// "===" it means strict checking which test for similar datatypes too 
+
